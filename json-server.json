@@ -1,0 +1,274 @@
+{
+    "continents": [
+        {
+            "id": "1",
+            "title": "africa",
+            "name": "África",
+            "bannerURL": "/images/continents/africa.jpg",
+            "decription": "Os países da África reúnem tantas atrações diferentes que você pode desfrutar de várias experiências inesquecíveis em um único roteiro de viagem! O continente africano é o lar de culturas ricas e diversas, capazes de tornar a sua estadia ainda mais apaixonante.",
+            "countries": "54",
+            "languages": "2000+",
+            "numberOfTop100Cities": "7"
+        },
+        {
+            "id": "2",
+            "title": "north-america",
+            "name": "América do Norte",
+            "bannerURL": "/images/continents/north-america.jpg",
+            "decription": "Os países da América do Norte fazem parte da “viagem dos sonhos” de muita gente. Juntos, Estados Unidos, Canadá e México recebem quase 160 milhões de turistas por ano, interessados em suas paisagens naturais, história e cultura.",
+            "countries": "23",
+            "languages": "400+",
+            "numberOfTop100Cities": "12"
+        },
+        {
+            "id": "3",
+            "title": "south-america",
+            "name": "América do Sul",
+            "bannerURL": "/images/continents/south-america.jpg",
+            "decription": "Viajar pelos países da América do Sul é o mesmo que mergulhar na história de um povo que recebeu influências de diferentes culturas ao longo dos séculos, conhecer paisagens paradisíacas e experimentar gastronomias ricas em sabor e tradição.",
+            "countries": "12",
+            "languages": "400+",
+            "numberOfTop100Cities": "3"
+        },
+        {
+            "id": "4",
+            "title": "asia",
+            "name": "Ásia",
+            "bannerURL": "/images/continents/asia.jpg",
+            "decription": "Fazer turismo pelos países da Ásia é uma oportunidade ímpar de mergulhar em tradições milenares, conhecer culturas completamente diferentes, visitar cenários paradisíacos e saborear as gastronomias mais apreciadas do mundo.",
+            "countries": "48",
+            "languages": "2000+",
+            "numberOfTop100Cities": "41"
+        },
+        {
+            "id": "5",
+            "title": "europe",
+            "name": "Europa",
+            "bannerURL": "/images/continents/europe.jpg",
+            "decription": "A Europa representa o destino dos sonhos para boa parte dos viajantes do Brasil e do mundo. O Velho Continente concentra história, cultura e cenários inesquecíveis, capazes de encantar mesmo o turista mais exigente.",
+            "countries": "44",
+            "languages": "24",
+            "numberOfTop100Cities": "35"
+        },
+        {
+            "id": "6",
+            "title": "oceania",
+            "name": "Oceânia",
+            "bannerURL": "/images/continents/oceania.jpg",
+            "decription": "Quais países da Oceania você já conhece? Quem gosta de lugares com natureza exuberante, certamente vai adorar esse cantinho tão especial do planeta! Dentre os países, existem destinos para quem curte esportes radicais e para quem prefere grandes centros urbanos.",
+            "countries": "14",
+            "languages": "1000+",
+            "numberOfTop100Cities": "2"
+        }
+    ],
+    "cities": [
+        {
+            "id": "1",
+            "name": "Amsterdã",
+            "country": "Holanda",
+            "continent": "europe",
+            "flag": "Netherlands",
+            "cityURL": "/images/cities/amsterdam.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Bangkok",
+            "country": "Tailândia",
+            "continent": "asia",
+            "flag": "Thailand",
+            "cityURL": "/images/cities/bangkok.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Beijing",
+            "country": "China",
+            "continent": "asia",
+            "flag": "China",
+            "cityURL": "/images/cities/beijing.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Buenos Aires",
+            "country": "Argentina",
+            "continent": "south-america",
+            "flag": "Argentina",
+            "cityURL": "/images/cities/buenos-aires.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Djerba",
+            "country": "Tunísia",
+            "continent": "africa",
+            "flag": "Tunisia",
+            "cityURL": "/images/cities/djerba.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Hong Kong",
+            "country": "China",
+            "continent": "asia",
+            "flag": "China",
+            "cityURL": "/images/cities/hong-kong.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Las Vegas",
+            "country": "EUA",
+            "continent": "north-america",
+            "flag": "United States",
+            "cityURL": "/images/cities/las-vegas.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Lima",
+            "country": "Peru",
+            "continent": "south-america",
+            "flag": "Peru",
+            "cityURL": "/images/cities/lima.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Londres",
+            "country": "Inglaterra",
+            "continent": "europe",
+            "flag": "United Kingdom",
+            "cityURL": "/images/cities/london.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Marrakech",
+            "country": "Marrocos",
+            "continent": "africa",
+            "flag": "Morocco",
+            "cityURL": "/images/cities/marrakech.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Melbourne",
+            "country": "Austrália",
+            "continent": "oceania",
+            "flag": "Australia",
+            "cityURL": "/images/cities/melbourne.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Cidade do México",
+            "country": "México",
+            "continent": "north-america",
+            "flag": "Mexico",
+            "cityURL": "/images/cities/mexico-city.jpg"
+        },
+        {
+            "id": "13",
+            "name": "Miami",
+            "country": "EUA",
+            "continent": "north-america",
+            "flag": "United States",
+            "cityURL": "/images/cities/miami.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Moscow",
+            "country": "Rússia",
+            "continent": "europe",
+            "flag": "Russia",
+            "cityURL": "/images/cities/moscow.jpg"
+        },
+        {
+            "id": "15",
+            "name": "Nairobi",
+            "country": "Quênia",
+            "continent": "africa",
+            "flag": "Kenya",
+            "cityURL": "/images/cities/nairobi.jpg"
+        },
+        {
+            "id": "16",
+            "name": "Nova York",
+            "country": "EUA",
+            "continent": "north-america",
+            "flag": "United States",
+            "cityURL": "/images/cities/new-york.jpg"
+        },
+        {
+            "id": "17",
+            "name": "Paris",
+            "country": "Frânça",
+            "continent": "europe",
+            "flag": "France",
+            "cityURL": "/images/cities/paris.jpg"
+        },
+        {
+            "id": "18",
+            "name": "Praga",
+            "country": "República Tcheca",
+            "continent": "europe",
+            "flag": "Czech Republic",
+            "cityURL": "/images/cities/prague.jpg"
+        },
+        {
+            "id": "19",
+            "name": "Rio de Janeiro",
+            "country": "Brasil",
+            "continent": "south-america",
+            "flag": "Brazil",
+            "cityURL": "/images/cities/rio-de-janeiro.jpg"
+        },
+        {
+            "id": "20",
+            "name": "Roma",
+            "country": "Itália",
+            "continent": "europe",
+            "flag": "Italy",
+            "cityURL": "/images/cities/rome.jpg"
+        },
+        {
+            "id": "21",
+            "name": "Seul",
+            "country": "Córeia do Sul",
+            "continent": "asia",
+            "flag": "South Korea",
+            "cityURL": "/images/cities/seoul.jpg"
+        },
+        {
+            "id": "22",
+            "name": "Sharm El Sheikh",
+            "country": "Egito",
+            "continent": "africa",
+            "flag": "Egypt",
+            "cityURL": "/images/cities/sharm-el-sheikh.jpg"
+        },
+        {
+            "id": "23",
+            "name": "Sydney",
+            "country": "Austrália",
+            "continent": "oceania",
+            "flag": "Australia",
+            "cityURL": "/images/cities/sydney.jpg"
+        },
+        {
+            "id": "24",
+            "name": "Taipei",
+            "country": "Taiwan",
+            "continent": "asia",
+            "flag": "Taiwan",
+            "cityURL": "/images/cities/taipei.jpg"
+        },
+        {
+            "id": "25",
+            "name": "Tóquio",
+            "country": "Japão",
+            "continent": "asia",
+            "flag": "Japan",
+            "cityURL": "/images/cities/tokyo.jpg"
+        },
+        {
+            "id": "26",
+            "name": "Toronto",
+            "country": "Canadá",
+            "continent": "north-america",
+            "flag": "Canada",
+            "cityURL": "/images/cities/toronto.jpg"
+        }
+    ]
+}
