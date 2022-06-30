@@ -1,0 +1,38 @@
+
+span.swiper-pagination-bullet {
+    background: #47585B;
+    opacity: 1;
+}
+
+
+span.swiper-pagination-bullet-active {
+    background: #FFBA08 ;
+}
+
+/* div.swiper-button-next, div.swiper-button-prev {
+    color: #FFBA08;
+} */
+
+.swiper-button-next, .swiper-button-prev {
+    background-image: url(/assets/Arrow.svg);
+    background-repeat: no-repeat;
+    background-size: 150% auto;
+    background-position: center;
+}
+
+.swiper-button-prev{
+    transform: rotate(180deg);
+}
+  
+.swiper-button-next::after, .swiper-button-prev::after {
+    display: none;
+}
+
+/* .swiper-slide a {
+    display: none;
+}
+
+.swiper-slide-visible a {
+    display: inline-block;
+} */
+
