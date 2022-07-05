@@ -80,7 +80,7 @@ export function Continents({ continents }: ContinentProps): JSX.Element {
                                             fontSize={['14px', '24px']}
                                             fontWeight={700}
                                         >
-                                            {`${continent.numberOfTop100Cities} cities among the top 100 most visited`}
+                                            {`${continent.numberOfTop100Cities} cidades entre as 100 mais visitadas`}
                                         </Text>
                                     </ChakraLink>
                                 </Link>
