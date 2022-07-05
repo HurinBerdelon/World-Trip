@@ -28,7 +28,7 @@
             "decription": "Viajar pelos países da América do Sul é o mesmo que mergulhar na história de um povo que recebeu influências de diferentes culturas ao longo dos séculos, conhecer paisagens paradisíacas e experimentar gastronomias ricas em sabor e tradição.",
             "countries": "12",
             "languages": "400+",
-            "numberOfTop100Cities": "3"
+            "numberOfTop100Cities": "4"
         },
         {
             "id": "4",
@@ -141,6 +141,14 @@
             "continent": "africa",
             "flag": "Morocco",
             "cityURL": "/images/cities/marrakech.jpg"
+        },
+        {
+            "id": "27",
+            "name": "Machu Picchu",
+            "country": "Peru",
+            "continent": "south-america",
+            "flag": "Peru",
+            "cityURL": "/images/cities/machu-picchu.jpg"
         },
         {
             "id": "11",
